@@ -1,0 +1,18 @@
+.black {
+  height: 19px;
+  position: relative;
+  width: 111px;
+}
+
+.black .text-wrapper {
+  color: var(--colors-heading);
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 2px;
+  letter-spacing: -0.29px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -7px;
+}

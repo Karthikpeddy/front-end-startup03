@@ -1,0 +1,12 @@
+.white {
+  height: 19px;
+  width: 111px;
+}
+
+.white .black-instance {
+  width: unset !important;
+}
+
+.white .design-component-instance-node {
+  color: var(--colors-white) !important;
+}

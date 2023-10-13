@@ -1,0 +1,23 @@
+.middle-fill {
+  background-color: var(--action-primary);
+  border-radius: 100px;
+  height: 50px;
+  position: relative;
+  width: 100px;
+}
+
+.middle-fill .sign-up {
+  color: var(--colors-white);
+  font-family: var(--buttons-middle-font-family);
+  font-size: var(--buttons-middle-font-size);
+  font-style: var(--buttons-middle-font-style);
+  font-weight: var(--buttons-middle-font-weight);
+  height: 26px;
+  left: 22px;
+  letter-spacing: var(--buttons-middle-letter-spacing);
+  line-height: var(--buttons-middle-line-height);
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  white-space: nowrap;
+}
